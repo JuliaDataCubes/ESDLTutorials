@@ -1,0 +1,12 @@
+[deps]
+ESDL = "359177bc-a543-11e8-11b7-bb015dba3358"
+ESDLPlots = "d555b242-3f29-57aa-84ea-3df92a135dfd"
+LombScargle = "fc60dff9-86e7-5f2f-a8a0-edeadbb75bd9"
+OnlineStats = "a15396b6-48d5-5d58-9928-6d29437db91e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+WeightedOnlineStats = "bbac0a1f-7c9d-5672-960b-c6ca726e5d5d"
+YAXArrays = "c21b50f5-aa40-41ea-b809-c0f5e47bfa5c"
+
+[compat]
+julia = "1.6"

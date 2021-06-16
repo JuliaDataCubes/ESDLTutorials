@@ -1,0 +1,12 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+tmp
+docs/build
+deps/build.jl
+Manifest.toml
+*.ipynb_checkpoints
+.DS_Store
+# Ignore the benchmarking results
+/benchmark/*.json
+.benchmarkci

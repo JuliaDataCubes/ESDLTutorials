@@ -1,0 +1,3 @@
+[submodule "dev/YAXArrays"]
+	path = dev/YAXArrays
+	url = https://github.com/meggart/YAXArrays.jl
