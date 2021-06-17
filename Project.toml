@@ -1,4 +1,5 @@
 [deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 ESDL = "359177bc-a543-11e8-11b7-bb015dba3358"
 ESDLPlots = "d555b242-3f29-57aa-84ea-3df92a135dfd"
 LombScargle = "fc60dff9-86e7-5f2f-a8a0-edeadbb75bd9"

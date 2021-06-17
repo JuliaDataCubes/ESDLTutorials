@@ -282,9 +282,9 @@ uuid = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 
 [[Distributions]]
 deps = ["FillArrays", "LinearAlgebra", "PDMats", "Printf", "QuadGK", "Random", "SparseArrays", "SpecialFunctions", "Statistics", "StatsBase", "StatsFuns"]
-git-tree-sha1 = "ab608e786a7a21d0496c9f8276c369614d1f273e"
+git-tree-sha1 = "013020ec9a5cdf1dd454eba3704dbffa69d3047e"
 uuid = "31c24e10-a181-5473-b8eb-7969acd0382f"
-version = "0.25.4"
+version = "0.25.3"
 
 [[DocStringExtensions]]
 deps = ["LibGit2"]
